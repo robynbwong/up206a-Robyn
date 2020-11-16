@@ -1,1 +1,1 @@
-Midterm_2 was not loading in Github (error message "Sorry, something went wrong. Reload?"), but then it started working. If it does not work please put URL into  https://nbviewer.jupyter.org/ Thanks!
+Midterm_2 and Miterm_3 don't seem to render in Github (error message "Sorry, something went wrong. Reload?"). I tried pasting the URL into  https://nbviewer.jupyter.org/ and it worked, so please do that. Thanks!
